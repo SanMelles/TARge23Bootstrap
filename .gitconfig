@@ -1,0 +1,10 @@
+[user]
+	name = DESKTOP-17QSN22\\Kasutaja
+	email = sandermelles@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = manager
